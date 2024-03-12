@@ -1,0 +1,12 @@
+const paragraphs = [
+    "In the divine light of Islam, believers find solace and guidance. The Quran, the holy book of Muslims, serves as a beacon, illuminating the path of righteousness. It teaches us the values of compassion, justice, and humility.",
+    "Prophet Muhammad (peace be upon him) stands as a paragon of virtue, exemplifying the teachings of Islam through his actions and words. His life is a source of inspiration, guiding us to emulate his character and kindness.",
+    "Islamic spirituality encourages sincere devotion and connection with Allah. Through prayer, fasting, and acts of charity, believers deepen their bond with the Creator and cultivate a sense of gratitude for the blessings bestowed upon them.",
+    "The concept of unity is central to Islam, fostering brotherhood among believers. Muslims around the world join hands in the pilgrimage of Hajj, symbolizing the oneness of humanity and the equality of all before Allah.",
+    "In times of hardship, Muslims turn to Allah, seeking strength and patience through prayer. Trusting in the divine plan, believers face challenges with resilience, knowing that Allah is the Most Merciful and the Best of Planners.",
+    "Islamic teachings emphasize knowledge and education. Seeking knowledge is considered a noble pursuit, and Muslims are encouraged to acquire wisdom throughout their lives, contributing positively to society.",
+    "Charity, or Zakat, is a fundamental pillar of Islam, promoting social justice and compassion. By giving to those in need, Muslims fulfill their duty to help create a society where everyone can live with dignity and security.",
+    "The Islamic calendar is marked by significant events, including Ramadan, a month of fasting, reflection, and spiritual growth. Eid ul-Fitr celebrates the culmination of this holy month, bringing joy and festivity to Muslim communities worldwide.",
+    "Islam encourages the pursuit of peace and harmony. The word 'Islam' itself means submission to the will of Allah and implies a state of inner peace. Muslims strive to be ambassadors of peace, fostering understanding and cooperation among diverse communities.",
+    "May the teachings of Islam continue to guide and inspire believers, promoting love, compassion, and unity in the hearts of humanity. As Muslims, let us embody the values of Islam in our daily lives, contributing to a world filled with justice, kindness, and spiritual enlightenment."
+];
